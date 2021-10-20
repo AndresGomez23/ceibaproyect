@@ -1,2 +1,0 @@
-# ceibaproyect
-ceibaprueba
